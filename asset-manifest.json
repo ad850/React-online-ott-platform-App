@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/React-online-ott-platform-App/static/css/main.6a8b66b1.chunk.css",
+    "main.js": "/React-online-ott-platform-App/static/js/main.f7511d58.chunk.js",
+    "main.js.map": "/React-online-ott-platform-App/static/js/main.f7511d58.chunk.js.map",
+    "runtime-main.js": "/React-online-ott-platform-App/static/js/runtime-main.1f27eb0e.js",
+    "runtime-main.js.map": "/React-online-ott-platform-App/static/js/runtime-main.1f27eb0e.js.map",
+    "static/js/2.40536ec0.chunk.js": "/React-online-ott-platform-App/static/js/2.40536ec0.chunk.js",
+    "static/js/2.40536ec0.chunk.js.map": "/React-online-ott-platform-App/static/js/2.40536ec0.chunk.js.map",
+    "index.html": "/React-online-ott-platform-App/index.html",
+    "static/css/main.6a8b66b1.chunk.css.map": "/React-online-ott-platform-App/static/css/main.6a8b66b1.chunk.css.map",
+    "static/js/2.40536ec0.chunk.js.LICENSE.txt": "/React-online-ott-platform-App/static/js/2.40536ec0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1f27eb0e.js",
+    "static/js/2.40536ec0.chunk.js",
+    "static/css/main.6a8b66b1.chunk.css",
+    "static/js/main.f7511d58.chunk.js"
+  ]
+}
